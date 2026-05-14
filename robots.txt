@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tmcshirts.com/sitemap.xml
